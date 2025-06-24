@@ -8,7 +8,7 @@ The **Autonomous Rickshaw Project** focuses on the design, control, and prototyp
 - Developed the prototype with an emphasis on low-cost components and scalability.
 
 ## 💻 Technologies & Tools
-- CAD design: Siemens NX / SolidWorks
+- CAD design: SolidWorks
 - Microcontroller: Arduino
 - Sensors: Ultrasonic sensor for obstacle detection
 - Motor control: L298N motor driver module
